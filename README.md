@@ -1,5 +1,5 @@
 [
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Timofei;)](https://git.io/typing-svg)](https://readme-typing-svg.demolab.com/demo/?color=B898F7&background=6024FF00&center=true&lines=Hi+I'm+Timofei)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Timofei;)](https://git.io/typing-svg)]
 
 C/C++ programmer. Currently studying at STU university. Embedded coding is my second name :)
 

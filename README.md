@@ -4,8 +4,10 @@
 C/C++ programmer. Currently studying at STU university. Embedded coding is my second name :)
 
 ```c
-int main(void){
-  while(1){
+int main(void)
+{
+  while(1)
+  {
     study("Computer Science");
     drink("Energy drink");
     sleep("at least 4 hours...");

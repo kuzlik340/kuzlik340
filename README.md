@@ -3,6 +3,6 @@
 
 C/C++ programmer. Currently studying at STU university. Embedded coding is my second name :)
 
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal" alt="Quote" width="400" height="100">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal" alt="Quote" width="400" >
   <img src="https://github-readme-stats.vercel.app/api?username=kuzlik340&show_icons=true&theme=bear" width="400">
 

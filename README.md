@@ -3,5 +3,17 @@
 
 C/C++ programmer. Currently studying at STU university. Embedded coding is my second name :)
 
+```c
+int main(void){
+  while(1){
+    study("Computer Science");
+    drink("Energy drink");
+    sleep("at least 4 hours...");
+  }
+  return 0;
+}
+```
+
+
   <img src="https://github-readme-stats.vercel.app/api?username=kuzlik340&show_icons=true&theme=bear" width="400">
 

@@ -3,6 +3,8 @@
 
 C/C++ programmer. Currently studying at STU university. Embedded coding is my second name :)
 
+If you are reading this, please check my last committed repository STM32 dino and if you like it put a star, you will make 1 more programmer happy :)
+
 ```c
 int main(void)
 {

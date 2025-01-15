@@ -2,7 +2,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Timofei;)](https://git.io/typing-svg)
 
 C/C++ programmer. Currently studying at STU university. Embedded coding is my second name :)
-![giphy](https://github.com/user-attachments/assets/214e5ed4-61f8-430f-912e-3544cb21d507)
+
+<img src="https://github.com/user-attachments/assets/214e5ed4-61f8-430f-912e-3544cb21d507" alt="giphy" width="300" height="200">
+
 
 ```c
 int main(void)

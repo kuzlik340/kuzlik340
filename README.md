@@ -3,7 +3,7 @@
 
 C/C++ software engineer at Nokia. Currently studying at STU university. Embedded coding is my second name :)
 
-<img src="https://github.com/user-attachments/assets/a4d0e543-3e1c-45d3-876f-e1e0652a31b2" alt="giphy" width="400" height="200">
+<img src="https://github.com/user-attachments/assets/a4d0e543-3e1c-45d3-876f-e1e0652a31b2" alt="giphy" width="400">
 
 
 

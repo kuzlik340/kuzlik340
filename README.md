@@ -3,9 +3,9 @@
 
 C/C++ software engineer at Nokia. Currently studying at STU university. Embedded coding is my second name :)
 
-| 
-![Image](https://github.com/user-attachments/assets/a4d0e543-3e1c-45d3-876f-e1e0652a31b2) 
-| ```c
+[Image](https://github.com/user-attachments/assets/a4d0e543-3e1c-45d3-876f-e1e0652a31b2) 
+
+```c
 int main(void)
 {
   while(1)
@@ -16,8 +16,7 @@ int main(void)
   }
   return 0;
 }
-``` |
-|---------------------------------------------|---------------------------------------------|
+```
 
 
 

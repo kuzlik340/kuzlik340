@@ -3,8 +3,6 @@
 
 C/C++ software engineer at Nokia. Currently studying at STU university. Embedded coding is my second name :)
 
-![Image](https://github.com/user-attachments/assets/a4d0e543-3e1c-45d3-876f-e1e0652a31b2) 
-
 ```c
 int main(void)
 {
@@ -12,6 +10,7 @@ int main(void)
   {
     study("Computer Science");
     drink("Energy drink");
+    work("Kernel do not panic please...");
     sleep("at least 4 hours...");
   }
   return 0;

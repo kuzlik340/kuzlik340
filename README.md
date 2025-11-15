@@ -9,12 +9,12 @@ C/C++ software engineer at Nokia. Currently studying at STU university. Embedded
 .global _start
 
 _start:
-    mov     x0, #42        // the answer to everything
-    mov     x1, x0         // share wisdom with another register
+    mov     x0, #42        ; the answer to everything
+    mov     x1, x0         ; share wisdom with another register
 
-    mov     x8, #93        // syscall: exit 
-    mov     x0, #0         // exit code
-    svc     #0             // invoke syscall
+    mov     x8, #93        ; syscall: exit 
+    mov     x0, #0         ; exit code
+    svc     #0             ; invoke syscall
 
 ```
 
